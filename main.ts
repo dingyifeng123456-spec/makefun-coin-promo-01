@@ -7,8 +7,9 @@
 // transaction that created it
 // (2x4Qjs2UKurHq3D6e3o9GdU7ECUiFasBLeCo6BMDFBeA5HUqgLUxZCZb8LyTdDakPCDA3FJVgNiSedvJXiruLe4K),
 // and the house reads the coin as pump.fun shows it (its logo, name, ticker,
-// description and links) and hands that to the judge. Nothing this program
-// writes about the coin is judged.
+// description and links) and hands that to the judge. The coin trades at
+// https://pump.fun/coin/Eg688nxwPApcSTUgs1sZ42KWZibT2EUjFiTLivhF2yUy.
+// Nothing this program writes about the coin is judged.
 //
 // Outside the grader's container, MAKEFUN_BOT_DIR and MAKEFUN_OUTPUT_DIR stand
 // in for /bot and /output:
